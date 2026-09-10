@@ -18,6 +18,9 @@ I developed this project to strengthen my programming logic and problem-solving 
    ```bash
    python NUMBERGUESSING.py
 
+### Project link
+
+https://roadmap.sh/projects/number-guessing-game
 
 ## 🇧🇷 Português
 
@@ -38,4 +41,8 @@ Desenvolvi este projeto para fortalecer minha lógica de programação e capacid
 3. Abra o terminal e rode o seguinte comando:
     ```bash
    python NUMBERGUESSING.py
-    
+
+
+### Link do projeto
+
+https://roadmap.sh/projects/number-guessing-game
