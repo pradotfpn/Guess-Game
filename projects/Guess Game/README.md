@@ -19,7 +19,7 @@ I developed this project to strengthen my programming logic and problem-solving 
    python NUMBERGUESSING.py
 
 
-### 🇧🇷 Português
+## 🇧🇷 Português
 
 ### Sobre o Projeto
 Um jogo interativo de terminal onde o usuário precisa adivinhar um número secreto. O projeto conta com um sistema de pontuação cumulativa, sequências de vitórias e diferentes níveis de dificuldade dinâmica.
